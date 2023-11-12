@@ -1,4 +1,4 @@
-public class ArrayValueCalculator {
+public class Application {
     public static int doCalc(String[][] arr) {
         int sum = 0;
         if (arr.length != 4 || arr[0].length != 4) {
